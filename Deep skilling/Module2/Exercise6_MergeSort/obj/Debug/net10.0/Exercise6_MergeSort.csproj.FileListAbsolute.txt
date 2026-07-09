@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\bin\Debug\net10.0\Exercise6_MergeSort.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\bin\Debug\net10.0\Exercise6_MergeSort.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\bin\Debug\net10.0\Exercise6_MergeSort.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\bin\Debug\net10.0\Exercise6_MergeSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\bin\Debug\net10.0\Exercise6_MergeSort.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\refint\Exercise6_MergeSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\Exercise6_MergeSort.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise6_MergeSort\obj\Debug\net10.0\ref\Exercise6_MergeSort.dll

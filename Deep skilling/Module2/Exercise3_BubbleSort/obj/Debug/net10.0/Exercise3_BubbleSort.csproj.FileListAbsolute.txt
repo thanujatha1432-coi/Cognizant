@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\bin\Debug\net10.0\Exercise3_BubbleSort.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\bin\Debug\net10.0\Exercise3_BubbleSort.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\bin\Debug\net10.0\Exercise3_BubbleSort.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\bin\Debug\net10.0\Exercise3_BubbleSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\bin\Debug\net10.0\Exercise3_BubbleSort.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\refint\Exercise3_BubbleSort.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\Exercise3_BubbleSort.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise3_BubbleSort\obj\Debug\net10.0\ref\Exercise3_BubbleSort.dll

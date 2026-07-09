@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\bin\Debug\net10.0\Exercise7_ArrayOperations.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\bin\Debug\net10.0\Exercise7_ArrayOperations.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\bin\Debug\net10.0\Exercise7_ArrayOperations.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\bin\Debug\net10.0\Exercise7_ArrayOperations.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\bin\Debug\net10.0\Exercise7_ArrayOperations.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\refint\Exercise7_ArrayOperations.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\Exercise7_ArrayOperations.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise7_ArrayOperations\obj\Debug\net10.0\ref\Exercise7_ArrayOperations.dll

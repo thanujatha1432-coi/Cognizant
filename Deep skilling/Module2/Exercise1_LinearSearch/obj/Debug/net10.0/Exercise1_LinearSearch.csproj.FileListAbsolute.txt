@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\bin\Debug\net10.0\Exercise1_LinearSearch.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\bin\Debug\net10.0\Exercise1_LinearSearch.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\bin\Debug\net10.0\Exercise1_LinearSearch.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\bin\Debug\net10.0\Exercise1_LinearSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\bin\Debug\net10.0\Exercise1_LinearSearch.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\refint\Exercise1_LinearSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\Exercise1_LinearSearch.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise1_LinearSearch\obj\Debug\net10.0\ref\Exercise1_LinearSearch.dll

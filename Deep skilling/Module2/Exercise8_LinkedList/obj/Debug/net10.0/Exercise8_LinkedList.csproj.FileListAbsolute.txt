@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\bin\Debug\net10.0\Exercise8_LinkedList.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\bin\Debug\net10.0\Exercise8_LinkedList.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\bin\Debug\net10.0\Exercise8_LinkedList.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\bin\Debug\net10.0\Exercise8_LinkedList.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\bin\Debug\net10.0\Exercise8_LinkedList.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\refint\Exercise8_LinkedList.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\Exercise8_LinkedList.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Exercise8_LinkedList\obj\Debug\net10.0\ref\Exercise8_LinkedList.dll
