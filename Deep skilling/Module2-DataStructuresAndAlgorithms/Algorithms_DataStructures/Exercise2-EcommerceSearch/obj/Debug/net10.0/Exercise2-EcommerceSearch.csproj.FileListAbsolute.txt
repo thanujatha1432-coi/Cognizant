@@ -1,0 +1,15 @@
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\bin\Debug\net10.0\Exercise2-EcommerceSearch.exe
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\bin\Debug\net10.0\Exercise2-EcommerceSearch.deps.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\bin\Debug\net10.0\Exercise2-EcommerceSearch.runtimeconfig.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\bin\Debug\net10.0\Exercise2-EcommerceSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\bin\Debug\net10.0\Exercise2-EcommerceSearch.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.AssemblyInfoInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.AssemblyInfo.cs
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.csproj.CoreCompileInputs.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.sourcelink.json
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\refint\Exercise2-EcommerceSearch.dll
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.pdb
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\Exercise2-EcommerceSearch.genruntimeconfig.cache
+C:\Users\vyasv\OneDrive\Desktop\Cognizant\Deep skilling\Module2\Algorithms_DataStructures\Exercise2-EcommerceSearch\obj\Debug\net10.0\ref\Exercise2-EcommerceSearch.dll
