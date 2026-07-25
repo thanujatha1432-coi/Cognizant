@@ -1,5 +1,11 @@
 **/bin/
 **/obj/
 .vs/
+.vscode/
 *.user
 *.suo
+*.cache
+*.log
+*.pdb
+*.dll
+*.exe
