@@ -9,3 +9,12 @@
 *.pdb
 *.dll
 *.exe
+**/bin/
+**/obj/
+**/.vs/
+.vscode/
+*.user
+*.suo
+*.dll
+*.pdb
+*.exe
